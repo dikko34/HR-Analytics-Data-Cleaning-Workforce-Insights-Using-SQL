@@ -92,3 +92,10 @@ ORDER BY Average_Salary DESC;
 - **Recruitment sources** varied in terms of performance and retention — some led to high attrition despite strong hiring numbers.
 
 - **Diversity analysis** uncovered education representation gaps across departments and salary discrepancies between genders with similar qualifications.
+
+
+### Files Included
+All queries related to revenue, segmentation, and marketing insights.
+
+- [HR Analytics (DataCleaning).sql](https://github.com/dikko34/HR-Analytics-Data-Cleaning-Workforce-Insights-Using-SQL/blob/main/HR%20Analytics%20(DataCleaning).sql)
+- [HR Analytics.sql](https://github.com/dikko34/HR-Analytics-Data-Cleaning-Workforce-Insights-Using-SQL/blob/main/HR%20Analytics.sql)
